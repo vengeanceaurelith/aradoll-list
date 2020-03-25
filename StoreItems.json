@@ -10904,7 +10904,7 @@
 	},
 	{
 		"abr": "basilisk",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Basilisk"
 	},
@@ -10916,7 +10916,7 @@
 	},
 	{
 		"abr": "bearofleet",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Bearofleet"
 	},
@@ -10994,7 +10994,7 @@
 	},
 	{
 		"abr": "chort",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Chort"
 	},
@@ -12278,7 +12278,7 @@
 	},
 	{
 		"abr": "werewolf",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Werewolf"
 	},
@@ -12302,7 +12302,7 @@
 	},
 	{
 		"abr": "wyvern",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Wyvern"
 	},
